@@ -1,5 +1,7 @@
 # OOAD Project
 
+https://docs.google.com/document/d/1KaLtAzs-iF1KiVXu36pwWANQBRaz6lLwOAewJ1m7U6g/edit
+
 NOTE: Keep this readme file; this will be used throughout the project to document progress.
 
 The Semester Project
